@@ -8,7 +8,7 @@ O projeto tem como objetivo disponibilizar extrato de gastos detalhado por assoc
 ## Pré-requisitos
 - PHP >= 7.4
 - Composer
-- Requer o front-end feito em Angular que se comunica com esse backend. Link: link_aqui 
+- Requer o front-end feito em Angular que se comunica com esse backend. Link: https://github.com/walfranp/front-end-angular-portal 
 
 ## Para rodar este projeto
 ```bash
